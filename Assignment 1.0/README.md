@@ -11,3 +11,4 @@ cloning a remote repository to your local machine.
 pushing the changes back to the remote repository.
 Enough for the first Readme.
 A little change for the sake of branching.
+Nano works fine too.
