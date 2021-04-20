@@ -9,9 +9,9 @@ mkdir stands for make directory.
 cloning a remote repository to your local machine.
 ###### 4.) git push
 pushing the changes back to the remote repository.
-Enough for the first Readme.\
-A little change for the sake of branching.\
-Nano works fine too.\
+Enough for the first Readme.
+A little change for the sake of branching.
+Nano works fine too.
 ######5.)Client-side
 The operations that are performed on the client rather than the server.
 ######6.)Server-side
